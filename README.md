@@ -47,7 +47,7 @@
 
 
 [whatsapp]: https://wa.me/+79778290219
-[telegram]: https://t.me/faig31555
+[telegram]: https://t.me/f31555
 [instagram]: https://www.instagram.com/faig.k
 [git]: https://github.com/faig23
 
